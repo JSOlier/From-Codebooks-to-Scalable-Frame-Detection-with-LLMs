@@ -1,0 +1,15 @@
+{
+  "note": "The original source code recorded model repository names but did not record Hugging Face commit/revision hashes. Null revisions below are therefore deliberate; exact historical checkpoint revisions cannot be recovered from the supplied materials.",
+  "llm_models": [
+    {"repository": "microsoft/Phi-3.5-mini-instruct", "revision": null},
+    {"repository": "meta-llama/Meta-Llama-3-8B-Instruct", "revision": null},
+    {"repository": "mistralai/Mistral-7B-Instruct-v0.2", "revision": null},
+    {"repository": "Qwen/Qwen1.5-7B-Chat", "revision": null}
+  ],
+  "similarity_models": [
+    {"repository": "sentence-transformers/all-mpnet-base-v2", "revision": null},
+    {"repository": "sentence-transformers/all-MiniLM-L6-v2", "revision": null},
+    {"repository": "sentence-transformers/multi-qa-mpnet-base-dot-v1", "revision": null},
+    {"repository": "sentence-transformers/all-distilroberta-v1", "revision": null}
+  ]
+}

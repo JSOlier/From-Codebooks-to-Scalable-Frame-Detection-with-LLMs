@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or the archived reproducibility materials, please cite this software release and the accompanying article."
+title: "Code and Reproducibility Materials for From Codebooks to Scalable Frame Detection with LLMs"
+type: software
+authors:
+  - family-names: Olier
+    given-names: Juan Sebastian
+    affiliation: "Department of Intelligent Systems, Tilburg University"
+version: 1.0.2
+date-released: 2026-10-02
+license: MIT
+abstract: >-
+  Python implementation and archived reproducibility materials for the study
+  "From Codebooks to Scalable Frame Detection with LLMs: A Zero-Shot Approach
+  via Binary Questions." The software implements binary indicator-question
+  classification with open-source LLMs, full-frame-description prompting,
+  sentence-similarity baselines, multi-model aggregation, and evaluation
+  against the Gun Violence Frame Corpus (GVFC). Archived final predictions are
+  included for reproducing the main binary-question results without rerunning
+  LLM inference.
+keywords:
+  - framing analysis
+  - large language models
+  - zero-shot classification
+  - computational communication
+  - codebooks
+  - reproducibility
+  - natural language processing
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Olier
+      given-names: Juan Sebastian
+  title: "From Codebooks to Scalable Frame Detection with LLMs: A Zero-Shot Approach via Binary Questions"
+  journal: "Computational Communication Research"
+  year: 2026
