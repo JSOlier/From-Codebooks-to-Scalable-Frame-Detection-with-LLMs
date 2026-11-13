@@ -4,6 +4,7 @@ Reproducibility code and archived experimental outputs accompanying:
 
 **Olier, J. S. (2026). “From Codebooks to Scalable Frame Detection with LLMs: A Zero-Shot Approach via Binary Questions.”  Computational Communication Research.**
 https://doi.org/10.5117/CCR2026.1.12.OLIE
+This repository contains the same as  https://doi.org/10.5281/zenodo.23101180, a Zenodo repository: Olier, J. S. (2026). Code and Reproducibility Materials for "From Codebooks to Scalable Frame Detection with LLMs: A Zero-Shot Approach via Binary Questions" (Version 1.0.0) [Computer software]. Zenodo.
 
 The project implements the three approaches reported in the article:
 
